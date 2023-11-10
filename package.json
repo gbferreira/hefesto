@@ -1,0 +1,11 @@
+{
+  "name": "hefesto",
+  "version": "1.0.0",
+  "description": "Mutiple API management system as HOC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "author": "Gabriel Ferreira",
+  "license": "ISC"
+}
